@@ -1,4 +1,5 @@
-# findyourjob - Учебный проект Glo Academy
+# FindYourJob 
+Учебный проект Glo Academy
 Выполнил проект ShadVlad
 ## Использованы языки
 - HTML
